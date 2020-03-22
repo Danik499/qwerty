@@ -1,0 +1,30 @@
+#block-left {
+  padding-top: 245px;
+  padding-left: 250px;
+  width: 50%;
+}
+#block-right {
+    width: 50%;
+    background-color: #282828;
+    height: 100VH;
+}
+.h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+.h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 100px;
+}
+.buttons {
+    padding-top: 210px;
+    color: white;
+    margin: 60px;
+}
+.icon {
+    color: white;
+}
+.modal_form {
+    padding-top: 100px;
+}
